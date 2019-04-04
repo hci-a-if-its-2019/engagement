@@ -33,7 +33,7 @@ The student only need to record their engagement once each day.
 | 05111640000129 - FRANDITA ADHITAMA                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000148 - AKMAL DARARI RAFIF BASKORO       | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000149 - ELVEGA DEWANGGA RACHMATULLAH     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 05111640000183 - NATASHA VALENTINA SANTOSO        | 1 | 1 |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 05111640000183 - NATASHA VALENTINA SANTOSO        | 1 | 1 |   |   |   |   |   |   | 1 |    |    |    |    |    |    |    |
 | 05111640000184 - MUHAMMAD AUFA WIBOWO             | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640007006 - NEMESIO R RAITUBU                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111740000027 - SAFHIRA MAHARANI                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
