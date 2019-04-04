@@ -28,7 +28,7 @@ The student only need to record their engagement once each day.
 | 05111640000103 - MUHAMMAD ADISTYA AZHAR           | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000105 - JONATHAN REHUEL LEWERISSA        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000108 - ZAHRAH AYU AFIFAH FEBRIANI       |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 05111640000113 - DENNAS HASSEL ADJANI             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 05111640000113 - DENNAS HASSEL ADJANI             |   | 1 |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000117 - RAHMA SOFYANTORO                 |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000129 - FRANDITA ADHITAMA                |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000148 - AKMAL DARARI RAFIF BASKORO       | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
