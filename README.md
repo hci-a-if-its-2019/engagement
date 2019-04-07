@@ -18,7 +18,7 @@ The student only need to record their engagement once each day.
 | 05111640000054 - RAHANDI NOOR PASHA               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000055 - HONESTA SWANDARU                 | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000058 - ANDIKA ANDRA                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 05111640000059 - FIRMAN MAULANA                   | 1 | 1 | 1 | 1 |   |   |   |   |   |    |    |    |    |    |    |    |
+| 05111640000059 - FIRMAN MAULANA                   | 1 | 1 | 1 | 1 |   |   |   | 1 |   |    |    |    |    |    |    |    |
 | 05111640000062 - MUHAMMAD AULIARAMADANI           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000064 - VINSENSIUS INDRA SURYANTO        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 | 05111640000069 - DEDDY ADITYA PRAMANA             | 1 |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
